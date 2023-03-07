@@ -1,0 +1,3 @@
+1 NC 3 LA CS
+2 DSA 3 PF CS
+3 js 3 jd kl
